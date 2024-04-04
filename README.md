@@ -27,4 +27,4 @@ Follow these steps to set up and run the project:
     npm run dev
     ```
 
-This will start the project in development mode. Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+This will start the project in development mode. Open [http://localhost:5173](http://localhost:5173) to view it in your browser.

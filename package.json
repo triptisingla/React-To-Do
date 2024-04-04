@@ -28,12 +28,12 @@
   "main": "vite.config.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/RaminMikayilov/redux-todo-list.git"
+    "url": "git+https://github.com/triptisingla/React-To-Do.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/RaminMikayilov/redux-todo-list/issues"
+    "url": "https://github.com/triptisingla/React-To-Do/issues"
   },
-  "homepage": "https://github.com/RaminMikayilov/redux-todo-list#readme"
+  "homepage": "https://github.com/triptisingla/React-To-Do#readme"
 }
